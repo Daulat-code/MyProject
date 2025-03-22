@@ -22,7 +22,7 @@ public class Bank {
 		acc1.accHName = "BSK";
 		acc1.balance = 5000;
 		System.out.println("acc1 instance is initialized with BK value \n");
-				System.out.println("Please Enter  You Want To Deposit\n");
+				System.out.println("Please Enter Amount You Want To Deposit\n");
 				double amount = sc.nextDouble();
 		acc1.deposit(amount);
 		acc1.display();

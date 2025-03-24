@@ -1,4 +1,4 @@
-package practic;
+package bank;
 
 public class BankAccount2 {
 	static String bankName;

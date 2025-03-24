@@ -1,4 +1,4 @@
-package practic;
+package bank;
 
 public class StaticClass {
 	
